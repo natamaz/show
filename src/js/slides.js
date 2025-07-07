@@ -1,5 +1,5 @@
 
-const BASE_PATH = '/show';
+const BASE_PATH = '/show/';
 export const slides = [
   {
     title: 'Fireworks Show',
