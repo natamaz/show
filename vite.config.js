@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import path from 'path'
 
 export default defineConfig({
-  base: '/show/', // замените на имя репозитория
+  base: '/show/', // имя репозитория с / на конце
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src')
